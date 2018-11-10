@@ -2,7 +2,7 @@
 
 **Dataset :** https://www.kaggle.com/udacity/armenian-online-job-postings/home
 
-**Report :** https://github.com/lppier/Armenian_Online_Job_Postings_Text_Mining/blob/master/Text_Mining_Jobs_Posting_Report.pdf
+**Report :** https://github.com/nakamura41/Armenian_Online_Job_Postings_Text_Mining/blob/master/Text_Mining_Jobs_Posting_Report.pdf
 
 **Techniques Used:** 
 1. Text pre-processing
